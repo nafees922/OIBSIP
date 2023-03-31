@@ -126,7 +126,7 @@ class Account_Details
 
     
 
-public class Bank_Account {
+ class Bank_Account {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
